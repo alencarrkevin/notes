@@ -10,9 +10,6 @@ Acabo de concluir meu primeiro projeto com Laravel e estou animado para comparti
 🔒 Recursos de segurança com encriptação  
 🗑️ Soft delete e hard delete  
 
-Foi uma experiência enriquecedora, que me deu uma ótima base para projetos futuros! Se quiser saber mais, o código está disponível no GitHub:  
-https://github.com/alencarrkevin/notes
-
 Que venham os próximos desafios! 💻🌟
 
 ## Página de Login
