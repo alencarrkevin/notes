@@ -1,2 +1,2 @@
-![Demonstração do Projeto](public/assets/NOTES-PessoalMicrosoftEdge2024-10-2808-14-03-ezgif.com-video-to-gif-converter.gif)
+![Demonstração do Projeto](public/assets/Captura de tela 2024-10-28 081336.png)
 
